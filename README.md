@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Rizki Setiawan**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizki-setiawan-983112198/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizki-setiawan-983112198/) ku ya.
 
 <!--
 **Rizki-Setiawan/Rizki-Setiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
