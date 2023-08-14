@@ -1,8 +1,8 @@
-# Halo semua! 
+# Hi Everyone! 
 
-Perkenalkan nama saya **Rizki Setiawan**.
+I'm **Rizki Setiawan**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizki-setiawan-983112198/) ku ya.
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/rizki-setiawan-code/).
 
 <p align="left">
 <a href="https://github.com/Rizki-Setiawan">
