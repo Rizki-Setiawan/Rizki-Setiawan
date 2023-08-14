@@ -2,7 +2,7 @@
 
 I'm **Rizki Setiawan**.
 
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/rizki-setiawan-code/).
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/rizki-setiawan-code/).
 
 <p align="left">
 <a href="https://github.com/Rizki-Setiawan">
