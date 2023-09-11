@@ -10,6 +10,7 @@ If you are interested in getting to know me, please follow my [Linkedin](https:/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rizki-Setiawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![ViewCount](https://komarev.com/ghpvc/?username=Rizki-Setiawan&color=blue)
 
 <!--
 **Rizki-Setiawan/Rizki-Setiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
